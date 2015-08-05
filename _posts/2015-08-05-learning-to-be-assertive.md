@@ -3,7 +3,7 @@ layout: post
 title: Learning to be Assertive
 ---
 
-I am not an assertive person, but I want to be one. I want to be confident, sure of myself, be able to say to other what I want to say. This is something that I have always wanted from the time I discovered that I am not very good at saying what I want to say in front of others.
+I am not an assertive person, but I want to be one. I want to be confident, sure of myself, be able to say to others what I want to say. This is something that I have always wanted from the time I discovered that I am not very good at saying what I want to say in front of others.
 
 ## My Assertive Rights
 
