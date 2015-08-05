@@ -7,7 +7,7 @@ I am not an assertive person, but I want to be one. I want to be confident, sure
 
 ## My Assertive Rights
 
-I have been reading the book <a target="_blank" href="#">What I say no, I feel Guilty</a> written by Manuel J Smith. This is my second reading of it. One of the topics in that book that I found to be most useful to be in my current stage of learning to be assertive was the statement of my assertive rights as a person. I am listing the assertive rights identified by Smith down below. 
+I have been reading the book <a target="_blank" href="#">When I say no, I feel Guilty</a> written by Manuel J Smith. This is my second reading of it. One of the topics in that book that I found to be most useful to me in my current stage of learning to be assertive was the statement of my assertive rights as a person. I am listing the assertive rights identified by Smith down below. 
 
 ### My Fundamental Assertive Right
 I have the right to judge my own behavior, thoughts and emotions, and to take the responsibility for their initiation and consequences upon myself.
