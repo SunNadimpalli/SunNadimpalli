@@ -9,6 +9,8 @@ Yesterday, I attended a workshop about User Centered Design and Documentation or
 
 The Workshop was conducted at the Bangalore office of <a target="_blank" href="http://www.novell.com/home/">Micro Focus (Formerly Novell)</a>. It was a four and half hour workshop. Went from 10 AM to 2.30 PM. The workshop was conducted by a cross functional team that works at Novell. The team was made up of Graphic Design Professionals, Usability Testers and Technical Writers. This team works on the product [NetIQ Sentinel](https://www.netiq.com/products/sentinel/) among others. 
 
+<img src="https://s3.amazonaws.com/sundar-website-assets/images/micro-focus-novell-office.png" alt="Novell India Office"/>
+
 The audience was primarily madeup of Technical Writers from companies like Cisco, TCS, Altair and many others. The workshop was conducted in a cozy training room at the Novell office. 
 
 ## The Agenda
