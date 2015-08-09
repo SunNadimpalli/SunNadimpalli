@@ -11,3 +11,18 @@ The Workshop was conducted at the Bangalore office of <a target="_blank" href="h
 
 The audience was primarily madeup of Technical Writers from companies like Cisco, TCS, Altair and many others. The workshop was conducted in a cozy training room at the Novell office. 
 
+## The Agenda
+
+The workshop came about when the folks at Novell expressed their desire to conduct this workshop to Rajdeep Gupta (who represents the Bangalore STC India Chapter). Although it was the first time I attended any workshop conducted by Novell, I heard that they have conducted a few other workshops earlier on Usability Testing. 
+
+### The Introduction
+
+### The Main Topic
+
+
+### The Workshop
+
+### The Discussions
+
+## In Conclusion 
+
