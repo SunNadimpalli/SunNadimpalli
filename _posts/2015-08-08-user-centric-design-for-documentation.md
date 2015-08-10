@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where Do Technical Writers Fit-in In The User Centered Design Process
+title: User Centric Product Design and the Technical Writer's Role
 date: 2015-08-08 18:00:00
 ---
 Yesterday, I attended a workshop about User Centered Design and Documentation organized by the Bangalore STC India Chapter and Microfocus/Novell. Here is a summary of the workshop. 
