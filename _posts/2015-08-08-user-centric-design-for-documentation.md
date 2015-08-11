@@ -15,11 +15,11 @@ The audience was primarily madeup of Technical Writers from companies like Cisco
 
 ## The Agenda
 
-The workshop came about when the folks at Novell expressed their desire to conduct this workshop to Rajdeep Gupta (who represents the Bangalore STC India Chapter). Although it was the first time I attended any workshop conducted by Novell, I heard that they have conducted a few other workshops earlier on Usability Testing. 
+The workshop came about when the folks at Novell expressed their desire to conduct this workshop to <a href="https://in.linkedin.com/in/rajdeepgupta" target="_blank">Rajdeep Gupta</a> (who represents the Bangalore STC India Chapter). Although it was the first time I attended any workshop conducted by Novell, I heard that they have conducted a few other workshops earlier on Usability Testing. 
 
 ### The Introduction
 
-The workshop was kickstarted by Parag Goel, who established the context by tell us about Novell, Micro Focus, the UCD initiatives at Novell and also introduced the team who would be running the workshop. 
+The workshop was kickstarted by <a href="https://in.linkedin.com/in/goelparag" target="_blank">Parag Goel</a>, who established the context by tell us about Novell, Micro Focus, the UCD initiatives at Novell and also introduced the team who would be running the workshop. 
 
 ### User Centric Design and the Technical Writer
 
@@ -27,7 +27,7 @@ Sandeep Virmani, explained the basics of User centric design and also provided a
 
 ### The Workshop Activity
 
-The main activity part of the workshop was conducted by Amudha Premkumar. She explained how a typical usability test is conducted. She also explained the role a technical writer plays in a usability test at Novell. A usability test commonly comprises of four key players: 
+The main activity part of the workshop was conducted by <a href="https://in.linkedin.com/pub/amudha-premkumar/51/7a8/2a7" target="_blank">Amudha Premkumar</a> and <a href="https://in.linkedin.com/in/guptasaral" target="_blank">Saral Gupta</a>. Amudha explained how a typical usability test is conducted. She also explained the role a technical writer plays in a usability test at Novell. A usability test commonly comprises of four key players: 
 
 1. The Tester
 2. The Observers
@@ -46,13 +46,13 @@ The activity consisted of a usability analysis of a paper prototype of a web app
 
 ### The Discussions
 
-During the workshop, while Sandeep Virmani was talking about his vision for technical writers, many participants raised their concerns about the difference between his vision and the current way the documentation process works in their organisation. 
+During the workshop, while <a href="https://in.linkedin.com/in/virmanisandeep" target="_blank">Sandeep Virmani</a> was talking about his vision for technical writers, many participants raised their concerns about the difference between his vision and the current way the documentation process works in their organisation. 
 
 It was inferred that Sandeep's vision needs a high level of proactive initiative by the technical writers to insert themselves at multiple points in the UCD workflow and work towards creating better and more usabled products. This was in addition to improving the usability of the documentation itself. 
 
 ## In Conclusion 
 
-The session was brought to conclusion by Ashalatha who described how she used the UCD process to distill the old documentation to a lean and usable form. She was able to reduce the 14 page PDF user manual to a 4 page one that focused on the best way to convey the instructions on how to use the software to quickly achieve customer goals. 
+The session was brought to conclusion by <a href="https://in.linkedin.com/pub/ashalatha-tom/13/963/abb" target="_blank">Ashalatha Tom</a> who described how she used the UCD process to distill the old documentation to a lean and usable form. She was able to reduce the 14 page PDF user manual to a 4 page one that focused on the best way to convey the instructions on how to use the software to quickly achieve customer goals. 
 
 The session ended with some gifts, photos, and a pizza lunch. 
 
