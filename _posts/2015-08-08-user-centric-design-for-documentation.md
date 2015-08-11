@@ -27,7 +27,7 @@ Sandeep Virmani, explained the basics of User centric design and also provided a
 
 ### The Workshop Activity
 
-The main activity part of the workshop was conducted by <a href="https://in.linkedin.com/pub/amudha-premkumar/51/7a8/2a7" target="_blank">Amudha Premkumar</a> and <a href="https://in.linkedin.com/in/guptasaral" target="_blank">Saral Gupta</a>. Amudha explained how a typical usability test is conducted. She also explained the role a technical writer plays in a usability test at Novell. A usability test commonly comprises of four key players: 
+The main activity part of the workshop was conducted by <a href="https://in.linkedin.com/pub/amudha-premkumar/51/7a8/2a7" target="_blank">Amudha Premkumar</a>, <a href="https://in.linkedin.com/in/guptasaral" target="_blank">Saral Gupta</a> and <a href="https://in.linkedin.com/pub/liza-shibu/22/465/532" target="_blank">Liza Shibu</a>. Amudha explained how a typical usability test is conducted. She also explained the role a technical writer plays in a usability test at Novell. A usability test commonly comprises of four key players: 
 
 1. The Tester
 2. The Observers
