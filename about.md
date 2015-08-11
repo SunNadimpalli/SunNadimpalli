@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Sundar
+title: About Me
 permalink: /about/
 ---
 
