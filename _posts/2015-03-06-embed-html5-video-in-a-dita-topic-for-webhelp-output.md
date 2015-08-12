@@ -16,12 +16,12 @@ If you want to embed a HTML5 Video in a DITA topic for the Webhelp transformatio
   2. Click the location where you want to insert the video.
   3. Add a new **Object** element to the topic.
   4. Edit the Attributes for this Object element and a value of &#8220;video&#8221; to the **outputclass** attribute.  
-    <img class="alignnone size-full wp-image-28" src="http://i2.wp.com/www.sundarnadimpalli.com/wp-content/uploads/2015/03/video-object-attribute-outputclass.png?fit=250%2C225" alt="The videoclass Attribute for an Object element" data-recalc-dims="1" /></p> 
+    <img class="alignnone size-full wp-image-28" src="https://s3.amazonaws.com/sundar-website-assets/images/video-object-attribute-outputclass.png?fit=250%2C225" alt="The videoclass Attribute for an Object element" data-recalc-dims="1" /></p> 
   5. Add a new param child element to this Object.  
     Enter the name of the param as **src**.
   6. In the value for this param, enter the path to the MP4 video file. (If you want to embed a youtube video, you can enter the URL to the youtube video here.)
   7. To specify a fixed height to the video add a new param with the name **width **and enter the required width as the value for the param. You can even enter 100% for the height or width params and the same will reflect in the output. 
-    <img class="alignnone size-full wp-image-29" src="http://i1.wp.com/www.sundarnadimpalli.com/wp-content/uploads/2015/03/insert-html5-video-object.png?fit=660%2C357" alt="DITA Object for Inserting a Video Element in a Topic" data-recalc-dims="1" /> </li> 
+    <img class="alignnone size-full wp-image-29" src="https://s3.amazonaws.com/sundar-website-assets/images/insert-html5-video-object.png?fit=660%2C357" alt="DITA Object for Inserting a Video Element in a Topic" data-recalc-dims="1" /> </li> 
     
       * <span style="line-height: 1.5;">Generate the DITA Webhelp output to see the video in the help output.</span></ol> 
     
