@@ -12,7 +12,7 @@ The job of a HR professional / recruiter is often tough. If the company that the
 
 ## The Questions
 
-<img src="http://i0.wp.com/www.sundarnadimpalli.com/wp-content/uploads/2015/03/1427304906_Copy-v2-Resume.png?fit=256%2C256" alt="A HR Friendly Resume" class="alignnone size-full wp-image-108" data-recalc-dims="1" />
+<img src="https://s3.amazonaws.com/sundar-website-assets/images/1427304906_Copy-v2-Resume.png?fit=256%2C256" alt="A HR Friendly Resume" class="alignnone size-full wp-image-108" data-recalc-dims="1" />
 
   1. What is main purpose of a resume from your point of view?
   2. In general how much time do you spend going through a resume?
