@@ -54,7 +54,7 @@ Irrespective of the positivity of the emotion, your job as a marketer is to make
 
 ## Make Emotions Your Friend
 
-<img src="http://i1.wp.com/www.sundarnadimpalli.com/wp-content/uploads/2015/06/MakeEmotionsYourFriend-300x150.png?fit=300%2C150" alt="Make Emotions Your Friend" class="aligncenter size-medium wp-image-214" data-recalc-dims="1" />
+<img src="https://s3.amazonaws.com/sundar-website-assets/images/MakeEmotionsYourFriend-300x150.png" alt="Make Emotions Your Friend" class="aligncenter size-medium wp-image-214" data-recalc-dims="1" />
 
 Geoffrey James writes about [6 Emotions That Make Customers Buy][1]. According to him he says it is not enough to know what information to provide your customer, but also what will be the emotional effect on your customer, after getting the information that you plan to convey. Because it is not the information that sells your product but the emotion that is born out of that information.
 
