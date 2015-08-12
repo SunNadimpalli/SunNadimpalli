@@ -37,7 +37,7 @@ Form your questions so that customers have look back and observe their own behav
 
 You will certainly encounter a set of customers during your surveys, who might say that they just do not have any problems and so are not looking for the solutions offer. There are few things you can do in such a situation:
 
-<img src="http://i0.wp.com/www.sundarnadimpalli.com/wp-content/uploads/2015/05/Problems-Origins-Symptoms.png?fit=660%2C190" alt="The Origins and Symptoms of Customer Problems" class="aligncenter size-full wp-image-189" data-recalc-dims="1" />
+<img src="https://s3.amazonaws.com/sundar-website-assets/images/Problems-Origins-Symptoms.png" alt="The Origins and Symptoms of Customer Problems" class="aligncenter size-full wp-image-189" data-recalc-dims="1" />
 
   1. Thank the customer and walk away, they may not be in your target market
   2. If they fit the profile of your target customer but they don&#8217;t face any problems as of now; they might face it in the future &#8211; try to get them to signup for your newsletter so you can sell to them when they are ready
