@@ -20,7 +20,7 @@ In a recent webcast on the **<a href="https://www.brighttalk.com/webcast/9273/12
 
 ## The 4 Levels of Technical Authoring
 
-<img src="http://i1.wp.com/www.sundarnadimpalli.com/wp-content/uploads/2015/03/loa.png?fit=660%2C116" alt="Levels of Technical Authoring" class="alignnone size-full wp-image-68" data-recalc-dims="1" />
+<img src="https://s3.amazonaws.com/sundar-website-assets/images/loa.png?fit=660%2C116" alt="Levels of Technical Authoring" class="alignnone size-full wp-image-68" data-recalc-dims="1" />
 
   1. Chaos. No Consistency.
   2. Documents Match on Paper.
@@ -31,7 +31,7 @@ Let us know look each level and try to understand what each one means.
 
 ### Chaos. No Consistency.
 
-<img src="http://i1.wp.com/www.sundarnadimpalli.com/wp-content/uploads/2015/03/loa-1.png?fit=660%2C123" alt="Chaos, No Consistency" class="alignnone size-full wp-image-76" data-recalc-dims="1" />
+<img src="https://s3.amazonaws.com/sundar-website-assets/images/loa-1.png?fit=660%2C123" alt="Chaos, No Consistency" class="alignnone size-full wp-image-76" data-recalc-dims="1" />
 
 In this level, the style, quality and output of the technical content published is defined completely by a handful of Technical Authors. There may or may not be a organization wide guidelines on how the content should look and how it should read. There is no consistency in the content produced by the various authors and no consistency in the content produced by various departments. In short there is an undeniable presence of chaos in the published technical content.
 
@@ -44,7 +44,7 @@ Example software tools used in this level are:
 
 ### Documents Match on Paper / PDF / Web
 
-<img src="http://i1.wp.com/www.sundarnadimpalli.com/wp-content/uploads/2015/03/loa-2.png?fit=660%2C124" alt="Documents Match on Paper" class="alignnone size-full wp-image-73" data-recalc-dims="1" />
+<img src="https://s3.amazonaws.com/sundar-website-assets/images/loa-2.png?fit=660%2C124" alt="Documents Match on Paper" class="alignnone size-full wp-image-73" data-recalc-dims="1" />
 
 In this level the organization has a style guide in place (although it may not be enforced strictly). There is a clear definition on how the final output should look in its various forms. Each technical author in the organization uses his own way to arrive at the similar looking output. The end users of the content see that there is consistency in the look and feel of the documents or online help, but they can surely point out deviations from the common styling here and there.
 
@@ -55,7 +55,7 @@ Example software tools used in this level are:
 
 ### Template Based Authoring and Consistently Formatted Documents
 
-<img src="http://i1.wp.com/www.sundarnadimpalli.com/wp-content/uploads/2015/03/loa-3.png?fit=660%2C125" alt="Template Based Authoring" class="alignnone size-full wp-image-74" data-recalc-dims="1" />Template Based Authoring.
+<img src="https://s3.amazonaws.com/sundar-website-assets/images/loa-3.png?fit=660%2C125" alt="Template Based Authoring" class="alignnone size-full wp-image-74" data-recalc-dims="1" />Template Based Authoring.
 
 In this level, organizations have adopted predefined templates that codify the style guidelines. They may still be using software tools that were originally used for desktop publishing but at least the templates provide a easier way to conform to a prescribed standard style. A process is in place that ensures that the right tools are used at the right steps to create, organize and deliver content in various output formats required.
 
@@ -66,7 +66,7 @@ Example software tools used in this level are:
 
 ### Structured Authoring and Programmatic Automation
 
-<img src="http://i0.wp.com/www.sundarnadimpalli.com/wp-content/uploads/2015/03/loa-4.png?fit=660%2C122" alt="Structured Authoring" class="alignnone size-full wp-image-75" data-recalc-dims="1" />
+<img src="https://s3.amazonaws.com/sundar-website-assets/images/loa-4.png?fit=660%2C122" alt="Structured Authoring" class="alignnone size-full wp-image-75" data-recalc-dims="1" />
 
 In this level, organizations usually have highly evolved processes and policies in place to ensure that the quality and consistency of the output is automated to a very large extent. Organizations in this level use Structured Authoring (mostly XML based) methods like DITA and DocBook. There is clear separation between creation of content and production of final output formats like PDF, Web Help, EBooks, Online Help, etc. Companies that need to produce content in many languages usually would have adopted Structured Authoring for the localization benefits that Structured Authoring environments offer.
 
