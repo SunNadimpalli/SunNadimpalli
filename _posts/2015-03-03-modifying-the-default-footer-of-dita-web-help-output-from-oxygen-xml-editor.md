@@ -12,7 +12,7 @@ Modifying the default footer that oXygen XML Editor writes out to the DITA Webhe
 
 The default footer looks something like the image below.
 
-<img class="alignnone size-full wp-image-14" src="http://i0.wp.com/www.sundarnadimpalli.com/wp-content/uploads/2015/03/dita_default_footer.png?fit=419%2C55" alt="The default footer written out by DITA. " data-recalc-dims="1" />
+<img class="alignnone size-full wp-image-14" src="https://s3.amazonaws.com/sundar-website-assets/images/dita_default_footer.png?fit=419%2C55" alt="The default footer written out by DITA. " data-recalc-dims="1" />
 
 You can change it to anything you want. The steps to the same are given below.
 
@@ -37,6 +37,6 @@ etc in the footer content. Including this in the footer content might cause the 
 
 You should now be able to see the new footer in the webhelp output.
 
-<img class="alignnone size-full wp-image-44" src="http://i1.wp.com/www.sundarnadimpalli.com/wp-content/uploads/2015/03/new_modified_footer1.png?fit=313%2C87" alt="New Custom Footer" data-recalc-dims="1" />
+<img class="alignnone size-full wp-image-44" src="https://s3.amazonaws.com/sundar-website-assets/images/new_modified_footer1.png?fit=313%2C87" alt="New Custom Footer" data-recalc-dims="1" />
 
 &nbsp;
