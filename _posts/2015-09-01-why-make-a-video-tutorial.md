@@ -5,9 +5,8 @@ layout: post
 permalink: /2015/07/20/why-and-when-to-make-video-tutorials/
 categories: general
 ---
-
-<h2>Why is a tutorial required?</h2>
 A tutorial is a set of instructions. And there are many ways to deliver this set of instructions to those who need them.
+<h2>Why is a tutorial required?</h2>
 
 <strong>The two most popular forms of tutorials are:</strong>
 <ol>
