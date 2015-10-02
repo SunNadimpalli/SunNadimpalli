@@ -71,5 +71,6 @@ This sentence gives my brain a free reign to dig deep and discover what I really
 It is said that awareness and acknowledgement of a problem is the first step towards finding a solution for it. I am big bag of fears, no doubt about that. But I know that now, and I know how to overcome fear. The crucial step now is identifying all my desires - the smallest to the biggest. And then exposing myself to the fear that stops me from trying to get what I want (again smallest to the biggest). The steps have begun. My fight against fears has started and I will overcome them all one fear at a time.
 
 
-<hr>
-[Add Me On LinkedIn](https://in.linkedin.com/in/sundarnadimpalli)
+---
+
+[My LinkedIn Profile](https://in.linkedin.com/in/sundarnadimpalli)
