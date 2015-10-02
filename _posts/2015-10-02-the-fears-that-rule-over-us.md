@@ -22,8 +22,8 @@ Instead I let the desire to have this imaginary conversation go and decide to ha
 
 Whenever I am faced with a problem that is bothering me, I do one of two things. 
 
-One: Buy a book on solving the problem (there are thousands if not millions of books on overcoming fear) 
-Two: Ask the all-knowing Google to point me to content that can tell me how to solve this problem that is troubling me
+- **One**: Buy a book on solving the problem (there are thousands if not millions of books on overcoming fear) 
+- **Two**: Ask the all-knowing Google to point me to content that can tell me how to solve this problem that is troubling me
 
 A google search for “how to overcome fear” will give 11,80,00,000 search results. So it is obviously a problem that bothers a lot of people. And many people have found ways to overcome fear. There are specific steps that can walk you through the process of overcoming each and every type of fear known to man. Among the solutions that I have had the patience to go through, I find that Exposure Therapy seems to be an often used method of treating the debilitating and the mundane fears that rule us and keep us from being all that we want to be.  
 
@@ -69,3 +69,7 @@ This sentence gives my brain a free reign to dig deep and discover what I really
 ## Awareness Is The First Step
 
 It is said that awareness and acknowledgement of a problem is the first step towards finding a solution for it. I am big bag of fears, no doubt about that. But I know that now, and I know how to overcome fear. The crucial step now is identifying all my desires - the smallest to the biggest. And then exposing myself to the fear that stops me from trying to get what I want (again smallest to the biggest). The steps have begun. My fight against fears has started and I will overcome them all one fear at a time.
+
+
+<hr>
+[Add Me On LinkedIn](https://in.linkedin.com/in/sundarnadimpalli)
