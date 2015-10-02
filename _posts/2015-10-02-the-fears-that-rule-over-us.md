@@ -29,7 +29,7 @@ A google search for “how to overcome fear” will give 11,80,00,000 search res
 
 Here are some useful links where you can read more about Exposure Therapy. 
 
->Useful Links: 
+#### Useful Links: 
 - [Exposure Therapy (Wikipedia)](https://en.wikipedia.org/wiki/Exposure_therapy)
 - [Overcoming Fear](https://www.psychologytoday.com/blog/insight-therapy/201009/overcoming-fear-the-only-way-out-is-through)
 - [Exposure Therapy (Anxiety Coach)](http://www.anxietycoach.com/exposuretherapy.html)
@@ -42,7 +42,7 @@ Exposure therapy simply says that if you repeatedly expose yourself to the situa
 Take a look at the video above. In this video - How to overcome fear - Brendan Burchard talks about three types of pains that feed our fears and keeps us from doing things that we want to do. 
 
 <div>  
-<iframe width=“100%” height="315" src="https://www.youtube.com/embed/SUEK9Sab4Vs" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/SUEK9Sab4Vs" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### The three types of pains are: 
