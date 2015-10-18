@@ -64,8 +64,8 @@ Keshav Sundaresh who is a high potential Business Development Professional talks
 
 
 Useful Links:  
-* [Emotions Are Key To Sales Success][2]  
-* [10 Common and Effective Sales Triggers][3]
+- [Emotions Are Key To Sales Success][2]  
+- [10 Common and Effective Sales Triggers][3]
 
  [1]: http://www.inc.com/geoffrey-james/6-emotions-that-make-customers-buy.html
  [2]: http://www.sellthefeeling.com/resources/articles/STF-Emotions_Are_Key_to_Sales_Success.pdf
