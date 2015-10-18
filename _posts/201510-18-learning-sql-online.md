@@ -11,7 +11,11 @@ I have always wanted to learn programming. Even now my top favourites on my to-l
 
 ## SQL on Code Academy
 
+<img src="https://s3.amazonaws.com/sundar-website-assets/images/sql-course-code-academy.jpg" alt="SQL Course on Code Academy"/>
+
 The course on SQL on [code academy](https://www.codecademy.com/courses/learn-sql) is what I started with. Of course if you search online with the search phrase “learning sql online” a lot of pages are listed in the search results. Right at the top is the SQL Tutorial from [W3Schools](http://www.w3schools.com/sql/). 
+
+<img src="https://s3.amazonaws.com/sundar-website-assets/images/sql-course-w3schools.jpg" alt="SQL Course on W3Schools"/>
 
 The W3Schools tutorial seems to be universally recommended as the starting point for learning SQL. But the problem that I have with learning at W3Schools is that the website is really cluttered with ads. I see the reason for that, their revenue model is based on earnings from ads. So I don’t blame the makers of the site for bombarding the learners with ugly and attention diverting ads on an otherwise useful learning site that. But, Yuck. 
 
@@ -24,6 +28,8 @@ One of the best parts of learning at CA and this is true for all the courses on 
 ## Learning SQL on the Khan Academy
 
 After finishing the course on code academy I was looking for more on SQL. I wanted to learn more. Another set of searches ensued and I stumbled across the Intro to SQL: Querying and managing data on [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql). 
+
+<img src="https://s3.amazonaws.com/sundar-website-assets/images/sql-course-khan-academy.jpg" alt="SQL Course on Khan Academy"/>
 
 What I like about this course is that while the code academy courses are a series of instructions led exercises to learn code, this course on KA (a.k.a Khan Academy) has the instructor has inserted talk throughs in between the exercises. 
 
