@@ -6,7 +6,7 @@ permalink: /2015/10/18/learning-sql-online/
 categories: general
 ---
 
-I have always wanted to learn programming. Even now my top favourites on my to-learn list are: Javascript, AngularJS, Python and others in that order. And then out of nowhere I have started pursuing SQL. I don’t know why, but it occurred to me that knowing SQL is an important step in learning build apps and understand data. And so began my search and quest to learn SQL. 
+I have always wanted to learn programming. Even now my top favourites on my to-learn list are: Javascript, AngularJS, Python and others in that order. And then out of nowhere I have started pursuing SQL. I don’t know why, but it occurred to me that knowing SQL is an important step in learning to build apps and understand data. And so began my search and quest to learn SQL. 
 
 
 ## SQL on Code Academy
@@ -27,7 +27,7 @@ One of the best parts of learning at CA and this is true for all the courses on 
 
 ## Learning SQL on the Khan Academy
 
-After finishing the course on code academy I was looking for more on SQL. I wanted to learn more. Another set of searches ensued and I stumbled across the Intro to SQL: Querying and managing data on [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql). 
+After finishing the course on code academy I was looking for more on SQL. I wanted to learn more. Another set of searches ensued and I stumbled across the **Intro to SQL: Querying and managing data** on [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql). 
 
 <img src="https://s3.amazonaws.com/sundar-website-assets/images/sql-course-knan-academy.jpg" alt="SQL Course on Khan Academy"/>
 
@@ -37,6 +37,6 @@ She (I don’t know who the instructor is) explains the usage of a particular SQ
 
 Similar to the learning environment on CA the KA learning environment too allows for the code to be run right in the browser and you can see if you have done any mistakes. There is also a very useful helper functionality that tells you if you have done any syntax errors in the SQL queries as you type them. 
 
-In Conclusion
+## In Conclusion
 
 Learning coding in 2016 has never been easier. There are thousands of places where you can learn to code in any language of your choice. There are innumerable tutorials written by caring and generous developers who have chosen to share their knowledge with complete strangers who they may never meet in their whole life. It is this generosity in sharing knowledge that makes the lives of learners like me way easier. Thank you dear tutorial writer.
