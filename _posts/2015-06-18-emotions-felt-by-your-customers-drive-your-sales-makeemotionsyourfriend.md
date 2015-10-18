@@ -54,15 +54,18 @@ Irrespective of the positivity of the emotion, your job as a marketer is to make
 
 ## Make Emotions Your Friend
 
-<img src="https://s3.amazonaws.com/sundar-website-assets/images/MakeEmotionsYourFriend-300x150.png" alt="Make Emotions Your Friend" class="aligncenter size-medium wp-image-214" data-recalc-dims="1" />
+<img src="https://s3.amazonaws.com/sundar-website-assets/images/MakeEmotionsYourFriend.png" alt="Make Emotions Your Friend" />
 
 Geoffrey James writes about [6 Emotions That Make Customers Buy][1]. According to him he says it is not enough to know what information to provide your customer, but also what will be the emotional effect on your customer, after getting the information that you plan to convey. Because it is not the information that sells your product but the emotion that is born out of that information.
 
 Keshav Sundaresh who is a high potential Business Development Professional talks about emotional story telling in this <a href="http://www.slideshare.net/kesh158/emotional-storytelling" target="_blank">slide deck</a>:
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/NNdzVQzrdmS0cQ" width="100%" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kesh158/emotional-storytelling" title="Emotional Storytelling" target="_blank">Emotional Storytelling</a> </strong> from <strong><a href="//www.slideshare.net/kesh158" target="_blank">Keshav Sundaresh</a></strong> </div>
+
+
 Useful Links:  
-&#8211; [Emotions Are Key To Sales Success][2]  
-&#8211; [10 Common and Effective Sales Triggers][3]
+* [Emotions Are Key To Sales Success][2]  
+* [10 Common and Effective Sales Triggers][3]
 
  [1]: http://www.inc.com/geoffrey-james/6-emotions-that-make-customers-buy.html
  [2]: http://www.sellthefeeling.com/resources/articles/STF-Emotions_Are_Key_to_Sales_Success.pdf
