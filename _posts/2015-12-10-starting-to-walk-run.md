@@ -12,7 +12,7 @@ I cannot run. I have wanted to run for as long as I can remember. I am 35 years 
 
 [Scott Dinsmore](http://liveyourlegend.net/about-scott-dinsmore/) in his coaching programs and his blogs has repeatedly said that if you want to succeed, you need to create an environment around you that enables you to do the work that you need to do to succeed. So first thing that I started looking for when I was contemplating starting to run was, a running group or a running partner. 
 
-Whenever I had thought of doing any form or exercise, I always planned to workout alone. I only sought out exercises that I can do alone. The only time I voluntarily got into a group activity was back in 2013. I joined a Krav Maga class. But I didn't last long in the class. After a particularly tiring training session, I reached home to find a lot of pain near my right knee. A visit to the hospital revealed that I had a hair line fracture just below my right knee. I could not sum up the courage to go back face that kind of a strenuous activity again and so I have not gone back to the class. 
+In the past, whenever I thought of doing any form or exercise, I always planned to workout alone. I only sought out exercises that I can do alone. The only time I voluntarily got into a group activity was back in 2013. I joined a Krav Maga class. But I didn't last long in the class. After a particularly tiring training session, I reached home to find a lot of pain near my right knee. A visit to the hospital revealed that I had a hair line fracture just below my right knee. I could not sum up the courage to go back to the class and face that kind of a strenuous activity again and so I quit. 
 
 ### Running Groups
 
