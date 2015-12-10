@@ -1,5 +1,5 @@
 ---
-title: ’Starting To Walk-Run'
+title: 'Starting To Walk-Run'
 author: Sundar Nadimpalli
 layout: post
 permalink: /2015/12/10/starting-to-run/
