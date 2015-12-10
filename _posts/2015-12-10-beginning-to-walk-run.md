@@ -20,7 +20,7 @@ Irrespective of whether I prefer to workout alone or not, I never stuck to any k
 
 I did not contact the running group that I found. Various thoughts started going through my head - what if it is a well established running group with veteran runners, how can I match their running ability with my non-existent running stamina. I decided to not contact the running group. 
 
-I decided to find a running partner. I started thinking of people who might be in a similar situation as me and who wanted to start running. The person who would have been most suited to run with me would have to meet these conditions: 
+Instead, I decided to look for a running partner. I started thinking of people who might be in a similar situation as me and who wanted to start running. The person who would have been most suited to run with me would have to meet these conditions: 
 
 - That person would have have to stay close to me, so that we can go running three times a week without having travel very far from the house to run together. 
 - That person must want to do something about getting fit. 
