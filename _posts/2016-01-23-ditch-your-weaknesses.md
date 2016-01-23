@@ -25,14 +25,14 @@ There is probably a reason why you failed at doing things that you failed at. Th
 
 Not all fingers of your hand are the same and not everyone can be good at math. Its ok if you did not fit into the straight jacket that this whole system tried to put on you. 
 
-All that you may remember are your struggles. All that you can think of are things that you did not do well. The real question is how can you move past that and get to place where you do not have fight yourself all the time? How can you get to phase in life where there is congruence between who you really are and what you are good at. 
+All that you may remember are your struggles. All that you can think of are things that you did not do well. The real question is how can you move past that and get to place where you do not have fight yourself all the time? How can you get to a phase in life where there is congruence between who you really are and what you are good at. 
 
-The only way to make the congruence happen is to find out what you are good at. The only  way  is to bring to clear focus what you may know only as a hazy glimpse. The only way is to identify your natural talents. Not the talents that you need to think hard to name, but those that bubble up to the surface inspite of yourself. The talents of yours which go back into hiding if you try to analyse them. 
+The only way to make the congruence happen is to find out what you are good at. The only way is to bring to clear focus what you may know only as a hazy glimpse. The only way is to identify your natural talents. Not the talents that you need to think hard to name, but those that bubble up to the surface inspite of yourself. The talents of yours which go back into hiding if you try to analyse them. 
 
 ## Where can I start?
 
-I found the Strengths Finder 2.0 to be surprisingly good way to know what my talents are. The test helped me strongly identify my strengths, where as before the test, I only had a vague inkling about them. I also had in my mind a set of idealistic talents that I wanted to posses. But on the other hand I did not have those talents that I secretly desired. Now, not actually having the talents that I secretly desire can be hugely depressing if I keep wishing for those talents. Taking the Strengths Finder test has freed me from wishing for those talents and the need that I felt to work on building those talents. 
+I found the <a href="http://strengthsfinder.com/" target="_blank">Strengths Finder 2.0</a> to be surprisingly good way to know what my talents are. The test helped me strongly identify my strengths, where as before the test, I only had a vague inkling about them. I also had in my mind a set of idealistic talents that I wanted to posses. But on the other hand I did not have those talents that I secretly desired. Now, not actually having the talents that I secretly desire can be hugely depressing if I keep wishing for those talents. Taking the Strengths Finder test has freed me from wishing for those talents and the need that I felt to work on building those talents. 
 
 I am finally free. And I can now begin the exciting work of improving and building my real talents. I can boldly choose careers that I know will give me opportunities to utilise my talent to do great work. 
 
-If you too are having doubts about what really defines you, like I used to have, I urge you to what your real talents or strengths are. 
+If you too are having doubts about what really defines you, like the doubts I used to have, I urge you to find out what your real talents or strengths are. 
