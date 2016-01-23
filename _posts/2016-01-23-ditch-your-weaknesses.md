@@ -4,7 +4,7 @@ author: Sundar Nadimpalli
 layout: post
 permalink: /2016/01/23/ditch-your-weaknesses/
 categories: general
---
+---
 
 Throughout your life, right from the time you are born, till the time there is no one alive who knows your weaknesses, all that people talk to you about is how you can be a better kindergartener / high schooler / undergrad / post-grad / worker / manager / patient / father / husband / grand father / and so on and so forth.  You begin to expose your weaknesses with the very first evaluation that someone subjects you to. Should life really be about expending it in the pursuit of overcoming your weaknesses? 
 
