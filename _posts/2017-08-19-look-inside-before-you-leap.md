@@ -6,7 +6,7 @@ permalink: /2017/08/19/look-inside-before-you-leap/
 categories: general
 ---
 
-Entrepreneurship is a profession like any other. Just like you want to become an astronaut, an anthropologist, an oncologist or a librarian you might want to become an entrepreneur. The Merriam-Webster online dictionary (https://www.merriam-webster.com/dictionary/entrepreneur) describes an Entreprenuer as someone who “organises, manages and assumes the risks of a business enterprise”.  
+Entrepreneurship is a profession like any other. Just like you want to become an astronaut, an anthropologist, an oncologist or a librarian you might want to become an entrepreneur. The [Merriam-Webster Online Dictionary](https://www.merriam-webster.com/dictionary/entrepreneur) describes an Entreprenuer as someone who “organises, manages and assumes the risks of a business enterprise”.  
 
 ## What Makes You Think About Pursuing Entrepreneurship?
 
@@ -38,6 +38,8 @@ In the essay I am going to focus on the risk of building an organisation that is
 A business that is just starting is never going to have enough people to handle all the work that needs to be done. The people running such a business including and especially the entrepreneur are going to overworked. As the business grows and there is even more work to be done and there is money to go around then it is possible for the business to hire more people. It is easy to determine if an organisation is insufficiently staffed and take measures to match the number of people with the work load. 
 
 It is more difficult to identify if there is a mismatch between the skills of the people working in the organisation and the job role that they are handling. 
+
+### The Goals of a Business
 
 The goals of a business enterprise must be:
 * Finding Customers
