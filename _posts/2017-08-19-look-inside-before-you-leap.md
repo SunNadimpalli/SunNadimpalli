@@ -47,7 +47,7 @@ The goals of a business enterprise must be:
 
 In order to achieve these goals the organisation structure that needs to be put together must define the job roles that each person in the organisation structure must fulfil. While staffing the organisation it is important to define the roles of each member of the organisation well and find a candidate that can do well in the specified role. 
 
-[Roles-Org-Chart Image here]
+<!-- [Roles-Org-Chart Image here] -->
 
 The same applies when you are appointing a CEO (the Main Ringleader) for your organisation. You need to first define what the CEO is supposed to do and what he must not do. 
 
