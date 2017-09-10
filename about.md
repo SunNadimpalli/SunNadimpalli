@@ -25,7 +25,7 @@ In addition on a personal level I play the roles of:
   * Friend
   * Mentor / Guide
 
-I hold a Master's degree in Automotive Engineering and bachelor's degree in Automobile Engineering, but having said that I haven't worked a day in the Automotive industry.
+I hold a Master's degree in Automotive Engineering and bachelor's degree in Automobile Engineering, but the bulk of my work experience is in the IT industry.
 
 I currently working as a IT Analyst and a Project Manager. Project Management is a fascinating role and really challenges ones people skills to the limit. 
 
