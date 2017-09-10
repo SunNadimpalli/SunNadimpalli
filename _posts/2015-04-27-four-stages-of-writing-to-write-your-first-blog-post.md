@@ -8,8 +8,8 @@ categories:
 ---
 Writing your first blog post can be daunting task. You may even encounter a serious case of writer&#8217;s block. In this video I talk about the four stages of writing that can be used to write your first blog post. These four stages of writing take you through the process step by step and by the time you are done with the process, your blog post will be ready for publishing on your blog.
 
-<div class="jetpack-video-wrapper">
-  <span class='embed-youtube' style='text-align:center; display: block;'></span>
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QViHYAiCfS0?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## The Four Stages Of Writing
