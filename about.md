@@ -4,6 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
+![Sundar Nadimpalli's Skills Word Cloud](https://s3.amazonaws.com/sundar-website-assets/images/skills-word-cloud-v2.png)
+
 I am not ignoring the risk of sounding too vague and unfocused, but depending on what needs to get done I play the part of following roles:
 
   * An Employee
