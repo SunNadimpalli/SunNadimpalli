@@ -20,4 +20,4 @@ The next day I went out and bought a pair of thick thermal socks from a Canadian
 
 I am happy to make a note to self that I can continue to enjoy walking in minimalist footwear during the Canadian winter and not be worrying about a frostbite. But like I said, it may be too early to conclude this and I will write another note in a month or two.
 
-Unrelated Trivia: In the month or so that I have been in Canada I have not come across anyone wearing a Prio. 
+Sort of Unrelated Trivia: In the month or so that I have been in Canada I have not come across anyone wearing a Prio. 
