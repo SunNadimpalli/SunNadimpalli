@@ -10,6 +10,7 @@ I am not ignoring the risk of sounding too vague and unfocused, but depending on
 
   * An Employee
   * A Project Manager
+  * A Web Developer
   * A Professional Technical Communicator
   * A Business Analyst
   * A wannabe Marketing Writer
