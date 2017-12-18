@@ -1,5 +1,5 @@
 ---
-title: 'Will I Get Frostbite Wearing a Prio During the 2017 Canadian Winter?'
+title: 'Will I Get Frostbite During the 2017 Canadian Winter?'
 author: Sundar Nadimpalli
 layout: post
 permalink: /2017/12/17/frostbite-in-the-canadian-winter-of-2017/
