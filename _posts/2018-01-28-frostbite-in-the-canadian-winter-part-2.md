@@ -6,7 +6,7 @@ permalink: /2018/01/28/frostbite-in-the-canadian-winter-of-2017-18-part-2/
 categories: general
 ---
 
-In my previous [post]{http://www.sundarnadimpalli.com/2017/12/17/frostbite-in-the-canadian-winter-of-2017/} I shared my fears of a potential frostbite as I stubbornly (or stupidly) continue to use my barefoot shoes in the winter of 2017-18 in Toronto. I now find myself not that fearful. Multiple people have written blog posts on the web where they have expressed their dispair about not being able to find shoes that remain faithful to barefoot and natural movement while still having qualities that can keep their feet dry and warm. I share their dispair. 
+In my previous [post](http://www.sundarnadimpalli.com/2017/12/17/frostbite-in-the-canadian-winter-of-2017/) I shared my fears of a potential frostbite as I stubbornly (or stupidly) continue to use my barefoot shoes in the winter of 2017-18 in Toronto. I now find myself not that fearful. Multiple people have written blog posts on the web where they have expressed their dispair about not being able to find shoes that remain faithful to barefoot and natural movement while still having qualities that can keep their feet dry and warm. I share their dispair. 
 
 It seems that as of now (January 2018) there is no shoe manufacturer that is making winter / wet weather shoes that are durable, affordable and allow for barefoot and natural movement by the wearer. I can understand if the mainstream shoe manufacturers do not have such an offering, but I am saddened to see that even the shoe makers that cater to the barefoot / natural movement market do not have such an offering. 
 
