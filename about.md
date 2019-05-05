@@ -54,6 +54,7 @@ As identified by the Gallup Strength's Finder 2.0 Test
 4. Disruptor
 
 *ROLE*
+
 _Rainmaker_
 
 
