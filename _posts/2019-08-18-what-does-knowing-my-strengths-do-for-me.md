@@ -13,6 +13,7 @@ My first reaction after learning about my strengths was, "Hey this is great. Now
 The report told me that my top 10 talent themes/strengths are: 
 
 || Sl. No. || Talent Theme or Strength  ||
+| --- | :---: |
 | 1 | Learner |
 | 2 | Developer |
 | 3 | Empathy |
@@ -29,6 +30,7 @@ These are aspects of my personality that is most dominant within me. Don Clifton
 The talent themes that make up the bottom of my list are: 
 
 || Sl. No. || Talent Theme or Strength ||
+| --- | :---: |
 | 25 | Maximizer |
 | 26 | Belief |
 | 27 | Responsibility |
