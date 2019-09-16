@@ -32,5 +32,30 @@ I currently working as a IT Analyst and a Project Manager. Project Management is
 
 I try to write as frequently as I can. You can find my writings on this website, and I also write on <a title="My LinkedIn Profile. " href="https://www.linkedin.com/in/sundarnadimpalli" target="_blank">LinkedIn</a>.
 
+### My Top 10 Strength Themes
+As identified by the Gallup Strength's Finder 2.0 Test
+1. Learner
+1. Developer
+1. Empathy
+1. Individualization
+1. Futuristic
+1. Harmony
+1. Context
+1. Strategic
+1. Positivity
+1. Relator
+
+### My Builder Profile
+
+*TALENTS*
+1. Profitability
+2. Delegator
+3. Risk
+4. Disruptor
+
+*ROLE*
+
+_Rainmaker_
+
 
 Disclaimer: The Opinions expressed in this website are my own and do not represent those of my employers, colleagues, or anyone else unless stated otherwise.
