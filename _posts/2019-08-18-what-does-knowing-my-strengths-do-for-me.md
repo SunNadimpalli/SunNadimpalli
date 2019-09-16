@@ -12,8 +12,7 @@ My first reaction after learning about my strengths was, "Hey this is great. Now
 
 The report told me that my top 10 talent themes/strengths are: 
 
-| Sl. No. | Talent Theme or Strength  |
-| ------------- |-------------|
+|| Sl. No. || Talent Theme or Strength  ||
 | 1 | Learner |
 | 2 | Developer |
 | 3 | Empathy |
@@ -29,8 +28,7 @@ These are aspects of my personality that is most dominant within me. Don Clifton
 
 The talent themes that make up the bottom of my list are: 
 
-| Sl. No. | Talent Theme or Strength |
-| --- | --- |
+|| Sl. No. || Talent Theme or Strength ||
 | 25 | Maximizer |
 | 26 | Belief |
 | 27 | Responsibility |
@@ -48,11 +46,11 @@ Every talent defined under the Clifton Strengths framework specifies the activit
 
 If you look at the two lists above, my top most strength is _**Learner**_ which is defined by Gallup as: 
 
-**"People exceptionally talented in the Learner theme have a great desire to learn and want to continuously improve. The process of learning, rather than the outcome, excites them."**
+> **"People exceptionally talented in the Learner theme have a great desire to learn and want to continuously improve. The process of learning, rather than the outcome, excites them."**
 
 And if you look at my bottom most strength _**Achiever**_ which is defined by Gallup as:
 
-**"People exceptionally talented in the Achiever theme work hard and possess a great deal of stamina. They take immense satisfaction in being busy and productive."**
+> **"People exceptionally talented in the Achiever theme work hard and possess a great deal of stamina. They take immense satisfaction in being busy and productive."**
 
 Knowing that _Learner_ is my top strength I can confidently take up assignments that require me to learn some new skill in a short period of time and also be able to confidently say that I can improve my performance in that skills over time. I can confidently believe that I can help others to learn this newly acquired skill. 
 
